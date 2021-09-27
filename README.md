@@ -17,5 +17,6 @@ Process:
 3. Open a new jupyter notebook and begin to clean data if needed. Making sure to get rid of any duplicates or Nan values within the datasets
 4. Concat the different dataframes together into one csv (may be used or not) 
 5. Open tableau and import data and begin visual making (2-4 for each question)
-6. Created 2 dashboards in Tableau to tell a story
-7. Created a map to show citibike data
+6. Created 3 dashboards in Tableau to explain data
+7. Created 2 map to show citibike data top Starting and Ending Locations
+8. Created a story that helped explain visualizations together.
